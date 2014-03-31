@@ -1,0 +1,17 @@
+{
+  "name": "apis-router",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kristján Ingi Mikaelsson",
+    "email": "kristjanmik@gmail.com"
+  },
+  "contributors": [],
+  "description": "A routing layer for apis.is",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristjanmik/apis-router.git"
+  },
+  "dependencies": {
+    "car": "~0.1.0"
+  }
+}
